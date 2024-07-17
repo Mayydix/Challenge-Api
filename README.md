@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Challenge ONE | Back End | Foro Alura 
 
 <p align="center" >
@@ -93,5 +94,7 @@ Luego haz clic en el botón <em>Browse</em> y busca el proyecto en el directorio
 
 ---
 ## Agradecimiento
+=======
+>>>>>>> 58e3503025c4773ee1e4e9b7127ee852d588bb00
 
 ---
